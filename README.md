@@ -2,7 +2,7 @@
 
 # HC-SR501 Driver for Ruff
 
-The driver for HC-SR501 motion sensor.
+Driver for HC-SR501 motion sensor.
 
 ## Supported Models
 
