@@ -1,6 +1,6 @@
 {
   "name": "hc-sr501",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Driver for HC-SR501 motion sensor.",
   "author": "Nanchao Inc.",
   "license": "MIT",
@@ -18,6 +18,9 @@
   ],
   "main": "src/index.js",
   "device-typings": "typings/device.d.ts",
+  "engines": {
+    "ruff": ">=1.2.0 <1.4.0"
+  },
   "scripts": {
     "install-sdk": "rvm install --local",
     "install-rap-dependencies": "rap install",

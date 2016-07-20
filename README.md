@@ -4,6 +4,10 @@
 
 Driver for HC-SR501 motion sensor.
 
+## Supported Engines
+
+* Ruff: >=1.2.0 <1.4.0
+
 ## Supported Models
 
 - [hc-sr501](https://rap.ruff.io/devices/hc-sr501)
